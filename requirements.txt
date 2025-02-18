@@ -35,5 +35,9 @@ Flask-Cors  # Enables Cross-Origin Resource Sharing (CORS) in Flask applications
 # File Downloading
 gdown  # Utility for downloading files from Google Drive via command line.
 
+# Build System
+pep517  # PEP 517 specifies a standard for building Python distributions.
+pip  # Package installer for Python, used to install and manage dependencies.
+
 # Local Package (Custom Module)
 -e .  # Installs a local package in editable mode, useful if the project contains a custom module.
